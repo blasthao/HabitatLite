@@ -1,0 +1,10 @@
+habitat-analysis==2.0.0
+SimpleITK==2.5.6
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.15.3
+scikit-learn==1.7.2
+matplotlib==3.10.9
+streamlit==1.61.1
+# Optional: required only for SLIC in Two-step HABIT mode
+scikit-image
